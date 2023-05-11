@@ -5,7 +5,7 @@ AWS Lambda with OpenAI Library - ChatGPT
 ### 준비
 - open ai api key 필요
 
-- [여기](https://platform.openai.com/account/api-keys) 에서 가입 후 생성을 한다.
+- [OpenAi](https://platform.openai.com/account/api-keys) 에서 가입 후 생성을 한다.
 
 - lambda_function.py 생성 : 이름 일치 필수
 
